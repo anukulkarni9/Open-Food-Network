@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpenFoodNetwork</string>
+    <string name="facebook_application_id">386528396801661</string>
+    <string name="fb_login_protocol_scheme">fb386528396801661</string>
+    <string name="facebook_client_token">32df1714363face73d0f0f4e3a5017bb</string>
+</resources>
