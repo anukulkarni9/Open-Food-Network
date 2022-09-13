@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809426754346",
+    "project_id": "openfoodnetwork-8d9f4",
+    "storage_bucket": "openfoodnetwork-8d9f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809426754346:android:46ea857f523f0dadfe9c53",
+        "android_client_info": {
+          "package_name": "ca.uwaterloo.ofn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809426754346-1rq3g4obiv6rhdt2dg758kvglecpmlkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.uwaterloo.ofn",
+            "certificate_hash": "7a4f3f226252d0a541c229e0e497a67c12ae0ee4"
+          }
+        },
+        {
+          "client_id": "809426754346-gdrfbebakv09airn871fuir9kalsasun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqbFj3tkHhEgGpSTYOI_CL8rYCMKExA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809426754346-gdrfbebakv09airn871fuir9kalsasun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
